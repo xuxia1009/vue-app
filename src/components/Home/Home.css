@@ -1,0 +1,21 @@
+.home{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.tac{
+    flex:2;
+}
+.right{
+    flex:8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
